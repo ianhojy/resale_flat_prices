@@ -2,5 +2,5 @@
 Author:Ian Ho
 
 <b>Glimpse of Preliminary Work</b>
-![]('diagrams/KALLANG-WHAMPOA.jpg')
+![](diagrams/KALLANG-WHAMPOA.jpg)
 
