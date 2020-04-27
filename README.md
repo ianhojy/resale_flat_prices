@@ -9,10 +9,10 @@ To understand intra-town distribution of resale prices over time<br>
 Identify outlier sub-towns which suffer from depressed resale prices<br>
 
 <b>Glimpse of Preliminary Work</b>
-![](diagrams/KALLANG-WHAMPOA_roll_12.jpg)
-
 Can Specify Rolling Period parameter
 
-![](diagrams/KALLANG-WHAMPOA_roll_12_FOCUS.jpg)
+![](diagrams/KALLANG-WHAMPOA_roll_12.jpg)
 
 Can Highlight specific areas for easy comparison
+
+![](diagrams/KALLANG-WHAMPOA_roll_12_FOCUS.jpg)
