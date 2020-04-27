@@ -1,6 +1,6 @@
 ### Resale Price Analysis: Intra-Town Relative Valuation over Time
 <b>Author:</b> Ian Ho
-
+<b>Data Source:</b> https://data.gov.sg/dataset/resale-flat-prices
 
 <b>Purpose</b>
 To understand intra-town distribution of resale prices over time<br>
