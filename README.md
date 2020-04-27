@@ -1,5 +1,5 @@
 ### Resale Price Analysis: Intra-Town Relative Valuation over Time
-<b>Author:</b> Ian Ho
+<b>Author:</b> Ian Ho <br>
 <b>Data Source:</b> https://data.gov.sg/dataset/resale-flat-prices
 
 <b>Purpose</b>
