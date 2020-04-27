@@ -14,3 +14,5 @@ Can Specify Rolling Period parameter
 
 <b>Additional Feature:</b>Can Highlight specific areas for easy comparison
 ![](diagrams/KALLANG-WHAMPOA_roll_12_FOCUS.jpg)
+
+<b>Additional Functionality not displayed:</b> Can specify flat-type
